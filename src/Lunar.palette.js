@@ -1,4 +1,4 @@
-const palette = {
+export const palette = {
 	"PINK_LIGHTER":     "#e09ece",
 	"PINK_LIGHT":       "#df6cbe",
 	"PINK":             "#e621af",
@@ -30,5 +30,3 @@ const palette = {
 	"GREEN_DARK":       "#105204",
 	"TRANSPARENT":      "#00000000"
 }
-
-module.exports = palette

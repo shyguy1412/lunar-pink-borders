@@ -41,8 +41,9 @@
 		"vsce": "^2.10.0"
 	},
 	"scripts": {
-		"preinstall": "npm run generate",
+		"preinstall": "deno run generate",
 		"install": "code --install-extension ./dark-pink*.vsix",
-		"generate": "node src/_build.js && vsce package"
+		"generate": "deno -A src/_build.js && npx vsce package",
+		"dev": "deno run --watch='./src/base.json' -A ./src/_build.js"
 	}
 }
