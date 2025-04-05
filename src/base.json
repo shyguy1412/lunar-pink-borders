@@ -168,7 +168,7 @@
 		"breadcrumb.focusForeground": "$PINK",
 		"editorGroupHeader.border": "$PINK_DARK",
 		"editorGroupHeader.tabsBackground": "$BACKGROUND",
-		"editorGroupHeader.tabsBorder": "$TRANSPARENT",
+		"editorGroupHeader.tabsBorder": "$PINK_DARK",
 		"tab.activeForeground": "$WHITE_LIGHT",
 		"tab.border": "$PINK_DARK",
 		"tab.activeBackground": "$WHITE%11",
