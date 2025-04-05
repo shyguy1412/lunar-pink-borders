@@ -357,21 +357,6 @@
     "lifetime:rust": "#D177F5",
     "formatSpecifier:rust": "#D177F5",
     "macroBang:rust": "#10B1FE",
-    "variable.reference": {
-      "fontStyle": "italic"
-    },
-    "method.reference": {
-      "fontStyle": "italic"
-    },
-    "function.reference": {
-      "fontStyle": "italic"
-    },
-    "parameter.reference": {
-      "fontStyle": "italic"
-    },
-    "selfKeyword.reference": {
-      "fontStyle": "italic"
-    },
     "variable.mutable": {
       "foreground": "#ABB2BF",
       "fontStyle": "bold"
@@ -393,24 +378,19 @@
       "fontStyle": "bold"
     },
     "variable.mutable.reference": {
-      "foreground": "#ABB2BF",
-      "fontStyle": "italic bold"
+      "foreground": "#ABB2BF"
     },
     "method.mutable.reference": {
-      "foreground": "#01AAFA",
-      "fontStyle": "italic bold"
+      "foreground": "#01AAFA"
     },
     "function.mutable.reference": {
-      "foreground": "#01AAFA",
-      "fontStyle": "italic bold"
+      "foreground": "#01AAFA"
     },
     "parameter.mutable.reference": {
-      "foreground": "#87B2C5",
-      "fontStyle": "italic bold"
+      "foreground": "#87B2C5"
     },
     "selfKeyword.mutable.reference": {
-      "foreground": "#F750AE",
-      "fontStyle": "italic bold"
+      "foreground": "#F750AE"
     },
     "arithmetic.mutable": {
       "fontStyle": ""
@@ -428,17 +408,11 @@
     "function.mutable.unsafe": {
       "fontStyle": "bold underline"
     },
-    "function.mutable.reference.unsafe": {
-      "fontStyle": "bold underline italic"
-    },
     "method.unsafe": {
       "fontStyle": "underline"
     },
     "method.mutable.unsafe": {
       "fontStyle": "bold underline"
-    },
-    "method.mutable.reference.unsafe": {
-      "fontStyle": "bold underline italic"
     },
     "attributeBracket.attribute:rust": "#FF6B66",
     "builtinAttribute.attribute:rust": "#FF6B66",
@@ -1156,8 +1130,7 @@
         "entity.other.attribute-name.js"
       ],
       "settings": {
-        "foreground": "#D177F5",
-        "fontStyle": "italic"
+        "foreground": "#D177F5"
       }
     },
     {
@@ -1207,8 +1180,7 @@
         "entity.other.attribute-name.css"
       ],
       "settings": {
-        "foreground": "#15C9C5",
-        "fontStyle": "italic"
+        "foreground": "#15C9C5"
       }
     },
     {
@@ -1363,8 +1335,7 @@
         "entity.other.attribute-name.localname.xml"
       ],
       "settings": {
-        "foreground": "#15C9C5",
-        "fontStyle": "italic"
+        "foreground": "#15C9C5"
       }
     },
     {
@@ -1382,8 +1353,7 @@
         "entity.other.attribute-name.namespace.xml"
       ],
       "settings": {
-        "foreground": "#9ACC12",
-        "fontStyle": "italic"
+        "foreground": "#9ACC12"
       }
     },
     {
@@ -1391,9 +1361,7 @@
       "scope": [
         "entity.other.attribute-name.xml punctuation.separator.namespace.xml"
       ],
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     },
     {
       "name": "XML - Doctype",
