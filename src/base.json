@@ -321,12 +321,11 @@
 					"fontStyle": "underline"
 			},
 			"property:csharp": {
-					"foreground": "#B58E95",
-					"fontStyle": "bold"
+					"foreground": "#B58E95"
 			},
 			"property.static:csharp": {
 					"foreground": "#B58E95",
-					"fontStyle": "bold underline"
+					"fontStyle": "underline"
 			},
 			"property.static:typescript": {
 					"foreground": "#B58E95",
@@ -358,24 +357,19 @@
 			"formatSpecifier:rust": "#D177F5",
 			"macroBang:rust": "#10B1FE",
 			"variable.mutable": {
-					"foreground": "#ABB2BF",
-					"fontStyle": "bold"
+					"foreground": "#ABB2BF"
 			},
 			"method.mutable": {
-					"foreground": "#01AAFA",
-					"fontStyle": "bold"
+					"foreground": "#01AAFA"
 			},
 			"function.mutable": {
-					"foreground": "#01AAFA",
-					"fontStyle": "bold"
+					"foreground": "#01AAFA"
 			},
 			"parameter.mutable": {
-					"foreground": "#87B2C5",
-					"fontStyle": "bold"
+					"foreground": "#87B2C5"
 			},
 			"selfKeyword.mutable": {
-					"foreground": "#F750AE",
-					"fontStyle": "bold"
+					"foreground": "#F750AE"
 			},
 			"variable.mutable.reference": {
 					"foreground": "#ABB2BF"
@@ -406,13 +400,13 @@
 					"fontStyle": "underline"
 			},
 			"function.mutable.unsafe": {
-					"fontStyle": "bold underline"
+					"fontStyle": "underline"
 			},
 			"method.unsafe": {
 					"fontStyle": "underline"
 			},
 			"method.mutable.unsafe": {
-					"fontStyle": "bold underline"
+					"fontStyle": "underline"
 			},
 			"attributeBracket.attribute:rust": "#FF6B66",
 			"builtinAttribute.attribute:rust": "#FF6B66",
@@ -1120,8 +1114,7 @@
 							"punctuation.section.embedded.end.js"
 					],
 					"settings": {
-							"foreground": "#FF6B66",
-							"fontStyle": "bold"
+							"foreground": "#FF6B66"
 					}
 			},
 			{
@@ -1159,8 +1152,7 @@
 							"entity.other.attribute-name.id.css"
 					],
 					"settings": {
-							"foreground": "#FF6B66",
-							"fontStyle": "bold"
+							"foreground": "#FF6B66"
 					}
 			},
 			{
