@@ -205,7 +205,7 @@
 		"gitDecoration.conflictingResourceForeground": "$CYAN_DARK",
 		"gitDecoration.deletedResourceForeground": "$RED_DARK",
 		"gitDecoration.ignoredResourceForeground": "$WHITE%77",
-		"gitDecoration.modifiedResourceForeground": "$YELLOW_DARK",
+		"gitDecoration.modifiedResourceForeground": "$CYAN_DARK",
 		"gitDecoration.stageDeletedResourceForeground": "$RED",
 		"gitDecoration.stageModifiedResourceForeground": "$YELLOW",
 		"gitDecoration.submoduleResourceForeground": "$CYAN",

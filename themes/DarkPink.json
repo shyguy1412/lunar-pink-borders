@@ -205,7 +205,7 @@
     "gitDecoration.conflictingResourceForeground": "#05a6a8",
     "gitDecoration.deletedResourceForeground": "#c50000",
     "gitDecoration.ignoredResourceForeground": "#dddddd77",
-    "gitDecoration.modifiedResourceForeground": "#f0b800",
+    "gitDecoration.modifiedResourceForeground": "#05a6a8",
     "gitDecoration.stageDeletedResourceForeground": "#ff0000",
     "gitDecoration.stageModifiedResourceForeground": "#ffd900",
     "gitDecoration.submoduleResourceForeground": "#09e4e6",
