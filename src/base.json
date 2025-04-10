@@ -298,6 +298,7 @@
 			"macro": "#10B1FE",
 			"namespace": "#B9BFCA",
 			"type:typescript": "#3FC56B",
+			"type:typescriptreact": "#3FC56B",
 			"struct": "#3FC56B",
 			"class": "#3FC56B",
 			"class.static:csharp": {
