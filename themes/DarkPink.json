@@ -1139,7 +1139,7 @@
     {
       "name": "HTML - Tags",
       "scope": [
-        "entity.name.tag.html"
+        "entity.name.tag"
       ],
       "settings": {
         "foreground": "#F85EB4"
@@ -1169,7 +1169,8 @@
       "name": "HTML - Attributes",
       "scope": [
         "entity.other.attribute-name.html",
-        "entity.other.attribute-name.css"
+        "entity.other.attribute-name.css",
+        "meta.tag.attributes"
       ],
       "settings": {
         "foreground": "#15C9C5"
