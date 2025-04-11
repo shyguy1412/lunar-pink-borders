@@ -294,6 +294,7 @@
 					"fontStyle": "underline"
 			},
 			"method": "#10B1FE",
+			"method.*": "#10B1FE",
 			"member:csharp": "#10B1FE",
 			"macro": "#10B1FE",
 			"namespace": "#B9BFCA",
@@ -314,29 +315,11 @@
 			"typeParameter": "#3FC56B",
 			"variable": "#B9BFCA",
 			"local:csharp": "#B9BFCA",
-			"parameter": "#97BCCD",
-			"property": "#B58E95",
-			"field:csharp": "#B58E95",
-			"field.static:csharp": {
-					"foreground": "#B58E95",
-					"fontStyle": "underline"
-			},
-			"property:csharp": {
-					"foreground": "#B58E95"
-			},
-			"property.static:csharp": {
-					"foreground": "#B58E95",
-					"fontStyle": "underline"
-			},
-			"property.static:typescript": {
-					"foreground": "#B58E95",
-					"fontStyle": "underline"
-			},
-			"*.constant": "#15C9C5",
-			"variable.static:csharp": "#15C9C5",
-			"variable.readonly:csharp": "#15C9C5",
-			"variable.readonly:javascript": "#15C9C5",
-			"variable.readonly:typescript": "#15C9C5",
+			"parameter": "#B9BFCA",
+			"property": "#B9BFCA",
+			"field:csharp": "#B9BFCA",
+			"variable.static": "#15C9C5",
+			"variable.readonly": "#15C9C5",
 			"string": "#F9C859",
 			"stringVerbatim:csharp": "#F9C859",
 			"escapeSequence": "#FF6B66",
